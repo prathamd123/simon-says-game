@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+.btnContainer {
+    display: flex;
+    /* background-color: darkblue; */
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    border: 0.3rem solid black;
+    /* background-color: lightblue; */
+    margin: 2.5rem;
+
+}
+
+.pink {
+    background-color: #d95980;
+}
+
+.lightblue {
+    background-color: #63aac0;
+}
+
+.orange {
+    background-color: #f99b45 ;
+}
+
+.blue{
+    background-color: #819ff9; 
+}
+
+.flash{
+    background-color: white;
+}
+
+.user-flash{
+    background-color: rgb(172, 240, 69);
+}
+
